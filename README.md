@@ -24,3 +24,8 @@
 ✅ 支持更改密码｜调节字体大小</br>
 
 ## 截图
+<img width="1316" alt="image" src="https://github.com/chasingboy/XSecret/blob/main/assets/login.png">
+
+<img width="1316" alt="image" src="https://github.com/chasingboy/XSecret/blob/main/assets/light.png">
+
+<img width="1316" alt="image" src="https://github.com/chasingboy/XSecret/blob/main/assets/dark.png">
