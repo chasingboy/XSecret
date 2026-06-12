@@ -29,3 +29,9 @@
 <img width="1316" alt="image" src="https://github.com/chasingboy/XSecret/blob/main/assets/light.png">
 
 <img width="1316" alt="image" src="https://github.com/chasingboy/XSecret/blob/main/assets/dark.png">
+
+## Mac 打开报错
+mac 打开时提示“系统初始化错误”，执行命令可解决该问题
+```
+xattr -dr com.apple.quarantine XSecret.app
+```
